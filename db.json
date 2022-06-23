@@ -78,11 +78,11 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "North Shore Maui - Jaws",
       "loc": {
-        "lat": 21.663522,
-        "long": -158.052865
+        "lat": 20.942666,
+        "long": -156.295802
       },
       "statistics": {
         "average": {
