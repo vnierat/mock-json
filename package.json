@@ -1,0 +1,22 @@
+{
+  "name": "anemometers",
+  "version": "1.0.0",
+  "description": "Fake rest api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnierat/mock-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnierat/mock-json/issues"
+  },
+  "homepage": "https://github.com/vnierat/mock-json#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
